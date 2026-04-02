@@ -1,0 +1,5 @@
+Actif: btcusd | Résultat: gagné
+ vous avez pris un trade sur le: XAUUSD
+ Vous avez obtenu un trade: Gagné
+ Vous avez enregistré un profit de:250.0
+ Voici votre commentaire :JE SUIS CONTENT D'AVOIR REUSSI CE TRADE
